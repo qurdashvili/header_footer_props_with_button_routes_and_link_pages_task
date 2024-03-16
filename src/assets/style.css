@@ -1,0 +1,58 @@
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Poppins-LightItalic";
+    src: url(../fonts/Poppins-LightItalic.ttf);
+}
+
+
+#navbar{
+    width: 100%;
+    height: 70px;
+    background-color:purple;
+    display: flex;
+    align-items: center;
+    font-family: "Poppins-Bold";
+    color: black;
+}
+
+#mainbody1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 266.5px;
+    padding-bottom: 266.5px;
+    font-size: 20px;
+    color: olive;
+    
+}
+
+
+#mainbody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 225px;
+    font-size: 20px;
+    color: olive;
+    
+}
+
+#ubraloddivi{
+    padding-bottom: 225px;
+}
+
+#footerstyle{
+    
+    width: 100%;
+    height: 70px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Poppins-LightItalic";
+    font-size: 16px;
+    color: slategrey;
+}
